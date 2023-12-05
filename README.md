@@ -1,0 +1,2 @@
+# kcd
+setting up git
